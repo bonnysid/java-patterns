@@ -1,6 +1,6 @@
 package Builder;
 
-public class EnterpriceWebsiteBuilder extends WebsiteBuilder{
+public class EnterpriseWebsiteBuilder extends WebsiteBuilder{
     @Override
     void buildName() {
         website.setName("Enterprise website");
