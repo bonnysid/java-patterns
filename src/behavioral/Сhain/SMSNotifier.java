@@ -1,4 +1,4 @@
-package behavioral.chain;
+package behavioral.Сhain;
 
 public class SMSNotifier extends Notifier{
     public SMSNotifier(int priority) {

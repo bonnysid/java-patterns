@@ -1,4 +1,4 @@
-package behavioral.chain;
+package behavioral.Сhain;
 
 public abstract class Notifier {
     private final int priority;

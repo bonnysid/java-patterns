@@ -1,4 +1,4 @@
-package behavioral.chain;
+package behavioral.Сhain;
 
 public class SimpleNotifier extends Notifier{
     public SimpleNotifier(int priority) {

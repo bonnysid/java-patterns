@@ -1,4 +1,4 @@
-package behavioral.chain;
+package behavioral.Сhain;
 
 public class EmailNotifier extends Notifier{
     public EmailNotifier(int priority) {

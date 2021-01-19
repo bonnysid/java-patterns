@@ -1,4 +1,4 @@
-package behavioral.chain;
+package behavioral.Сhain;
 
 public class Priority {
     public static final int SIMPLE = 1;

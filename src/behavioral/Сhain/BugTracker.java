@@ -1,4 +1,4 @@
-package behavioral.chain;
+package behavioral.Сhain;
 
 public class BugTracker {
     public static void main(String[] args) {
